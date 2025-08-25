@@ -23,8 +23,6 @@ http://200.229.147.210:8000/play/a034/index.m3u8
 http://200.229.147.210:8000/play/a07j/index.m3u8
 #EXTINF:-1 group-title="-",AZ click HD
 http://200.229.147.210:8000/play/a0ap/index.m3u8
-#EXTINF:-1 group-title="-",AZTECA CORAZON
-http://200.229.147.210:8000/play/a01t/index.m3u8
 #EXTINF:-1 group-title="-",AZTECA HN
 http://200.229.147.210:8000/play/a03j/index.m3u8
 #EXTINF:-1 group-title="-",AZTECA UN0
@@ -329,6 +327,10 @@ http://200.229.147.210:8000/play/a0ax/index.m3u8
 http://200.229.147.210:8000/play/a007/index.m3u8
 #EXTINF:-1 group-title="-",ID
 http://200.229.147.210:8000/play/a073/index.m3u8
+#EXTINF:-1 group-title="-",Inmaculada tv
+http://200.229.147.210:8000/play/a03r/index.m3u8
+#EXTINF:-1 group-title="-",JBN
+http://200.229.147.210:8000/play/a03q/index.m3u8
 #EXTINF:-1 group-title="-",LA NUEVA VISION
 http://200.229.147.210:8000/play/a01j/index.m3u8
 #EXTINF:-1 group-title="-",LIFE TIME
@@ -393,6 +395,8 @@ http://200.229.147.210:8000/play/a08n/index.m3u8
 http://200.229.147.210:8000/play/a08r/index.m3u8
 #EXTINF:-1 group-title="-",Playboy
 http://200.229.147.210:8000/play/a02c/index.m3u8
+#EXTINF:-1 group-title="-",Prensa LIbre
+http://200.229.147.210:8000/play/a03o/index.m3u8
 #EXTINF:-1 group-title="-",QHUBO TV
 http://200.229.147.210:8000/play/a03f/index.m3u8
 #EXTINF:-1 group-title="-",RCN - GUA
@@ -495,6 +499,8 @@ http://200.229.147.210:8000/play/a006/index.m3u8
 http://200.229.147.210:8000/play/a07h/index.m3u8
 #EXTINF:-1 group-title="-",TVM25 -  ESA
 http://200.229.147.210:8000/play/a06u/index.m3u8
+#EXTINF:-1 group-title="-",TVS
+http://200.229.147.210:8000/play/a03p/index.m3u8
 #EXTINF:-1 group-title="-",Teen Nick HD
 http://200.229.147.210:8000/play/a0ae/index.m3u8
 #EXTINF:-1 group-title="-",Tele Antillas - RD
@@ -551,4 +557,3 @@ http://200.229.147.210:8000/play/a0bd/index.m3u8
 http://200.229.147.210:8000/play/a064/index.m3u8
 #EXTINF:-1 group-title="-",ZooMoo
 http://200.229.147.210:8000/play/a003/index.m3u8
-
